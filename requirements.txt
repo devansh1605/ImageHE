@@ -1,0 +1,15 @@
+phe
+numpy
+crypto
+pip
+Pillow
+PyYAML
+Naked
+requests
+setuptools
+shellescape
+certifi
+urllib3
+idna
+matplotlib
+scipy
